@@ -80,6 +80,12 @@ We developed both a **GUI (Tkinter)** and a **Streamlit-based web app** for user
 - User-friendly web interface.
 - Real-time prediction with visual insights.
 
+## 📸 Screenshots
+
+### 🔹 Streamlit Web App
+
+![Streamlit UI Screenshot](health_insurance.PNG)
+
 ---
 
 ## 🚀 How to Run
