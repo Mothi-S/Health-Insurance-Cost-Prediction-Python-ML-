@@ -84,7 +84,7 @@ We developed both a **GUI (Tkinter)** and a **Streamlit-based web app** for user
 
 ### 🔹 Streamlit Web App
 
-![Streamlit UI Screenshot](health_insurance.PNG)
+![Streamlit UI Screenshot](steamlit_ui.PNG)
 
 ---
 
