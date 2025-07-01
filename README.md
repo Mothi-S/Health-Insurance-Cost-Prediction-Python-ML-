@@ -84,7 +84,7 @@ We developed both a **GUI (Tkinter)** and a **Streamlit-based web app** for user
 
 ### 🔹 Streamlit Web App
 
-![Streamlit UI Screenshot](steamlit_ui.PNG)
+![Streamlit UI Screenshot](streamlit_ui.PNG)
 
 ---
 
